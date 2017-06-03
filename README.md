@@ -1,8 +1,12 @@
 # gostart
 
+**Clone** 
 
-##run gostart ./gostart-alpha##
+git clone 
 
-${c = create
-pwd = local
-ls = list
+**Run** 
+
+
+```
+$ ./gostart-alpha
+```
